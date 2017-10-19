@@ -1,0 +1,13 @@
+In order for Part 3 to work, Please follow the steps below
+
+Step 1
+Compile Prcs_P1.c and name it Prcs_P1.exe
+Compile Prcs_P2.c and name it Prcs_P2.exe
+
+Step 2
+Compile Parent_Prcs.c and name it what ever you want 
+
+Step 3
+Run the Parent file that you named and it should execute Process1 and Process2 one after the other.
+
+That should be it, Thank you Arun!
